@@ -30,9 +30,6 @@ The system is intelligent enough to generate accurate queries for given question
 
 1.Clone this repository to your local machine using:
 
-```bash
-  git clone https://github.com/codebasics/langchain.git
-```
 2.Navigate to the project directory:
 
 ```bash
